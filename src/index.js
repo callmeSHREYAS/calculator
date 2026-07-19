@@ -4,6 +4,8 @@ const calBtnexp = document.querySelectorAll('.cal-btnexp')
 
 const calEq = document.querySelector('.cal-eq')
 const btnClear = document.querySelector('.btn-clear')
+console.log("Hey this is Shreyas Vartak , Testting CodeRabbit");
+
 btnClear.addEventListener("click", function () {
     exp = ""
     inputTxt.value = ""
