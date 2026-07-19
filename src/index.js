@@ -8,6 +8,7 @@ btnClear.addEventListener("click", function () {
     exp = ""
     inputTxt.value = ""
 })
+
 let exp = "";
 
 Array.from(calBtn).forEach(link => {
